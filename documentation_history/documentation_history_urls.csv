@@ -5,3 +5,4 @@ amz cloudwatch|https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Do
 amz cloudtrail|https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-document-history.html|text_short#text_long#date
 aws kms|https://docs.aws.amazon.com/kms/latest/developerguide/dochistory.html|text_short#text_long#date
 aws step functions|https://docs.aws.amazon.com/step-functions/latest/dg/document-history.html|text_short#text_long#date
+amz s3|https://docs.aws.amazon.com/AmazonS3/latest/dev/WhatsNew.html|text_short#text_long#date
