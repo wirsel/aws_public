@@ -1,1 +1,2 @@
-amz sqs|https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-document-history.html
+amz sqs|https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-document-history.html|date#text_long
+amz sns|https://docs.aws.amazon.com/sns/latest/dg/document-history.html|text_short#text_long#date
