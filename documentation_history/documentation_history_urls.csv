@@ -1,3 +1,4 @@
+solution|url|headers
 amz sqs|https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-document-history.html|date#text_long
 amz sns|https://docs.aws.amazon.com/sns/latest/dg/document-history.html|text_short#text_long#date
 amz cloudwatch|https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/DocumentHistory.html|text_short#text_long#date
