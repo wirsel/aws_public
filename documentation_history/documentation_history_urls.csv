@@ -3,3 +3,4 @@ amz sqs|https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGui
 amz sns|https://docs.aws.amazon.com/sns/latest/dg/document-history.html|text_short#text_long#date
 amz cloudwatch|https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/DocumentHistory.html|text_short#text_long#date
 amz cloudtrail|https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-document-history.html|text_short#text_long#date
+aws kms|https://docs.aws.amazon.com/kms/latest/developerguide/dochistory.html|text_short#text_long#date
