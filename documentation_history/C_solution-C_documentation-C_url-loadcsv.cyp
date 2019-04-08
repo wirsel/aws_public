@@ -1,4 +1,4 @@
-Load csv from 'https://raw.githubusercontent.com/wirsel/aws_public/master/documentation_history_urls.csv' as line FIELDTERMINATOR '|'
+Load csv from 'https://raw.githubusercontent.com/wirsel/aws_public/master/documentation_history/documentation_history_urls.csv' as line FIELDTERMINATOR '|'
 merge(s:C_solution {identifier:line[0]})
 on create set s.name=s.identifier, s.type='C_solution'
 merge(d:C_documentation {identifier:line[0]})
