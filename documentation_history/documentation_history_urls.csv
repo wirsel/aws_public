@@ -8,4 +8,4 @@ aws step functions|https://docs.aws.amazon.com/step-functions/latest/dg/document
 amz s3|https://docs.aws.amazon.com/AmazonS3/latest/dev/WhatsNew.html|text_short#text_long#date
 aws iam|https://docs.aws.amazon.com/IAM/latest/UserGuide/document-history.html|text_short#text_long#date
 amz rds|https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/WhatsNew.html|text_short#text_long#date
-amz aurora|https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/WhatsNew.html!text_short#text_long#date
+amz aurora|https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/WhatsNew.html|text_short#text_long#date
