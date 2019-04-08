@@ -10,3 +10,4 @@ aws iam|https://docs.aws.amazon.com/IAM/latest/UserGuide/document-history.html|t
 amz rds|https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/WhatsNew.html|text_short#text_long#date
 amz aurora|https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/WhatsNew.html|text_short#text_long#date
 amz athena|https://docs.aws.amazon.com/athena/latest/ug/DocHistory.html|text_short#text_long#date
+amz api gateway|https://docs.aws.amazon.com/apigateway/latest/developerguide/history.html|text_short#text_long#date
