@@ -15,3 +15,4 @@ amz vpc|https://docs.aws.amazon.com/vpc/latest/userguide/WhatsNew.html|feature#a
 aws workspaces|https://docs.aws.amazon.com/workspaces/latest/adminguide/workspaces-document-history.html|change#description#date
 aws lambda|https://docs.aws.amazon.com/lambda/latest/dg/history.html|change#description#date
 aws backup|https://docs.aws.amazon.com/aws-backup/latest/devguide/doc-history.html!change#description#date
+aws config!https://docs.aws.amazon.com/config/latest/developerguide/DocumentHistory.html|feature#description#date
